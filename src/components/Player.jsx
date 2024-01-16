@@ -28,5 +28,5 @@ export default function Player( {initialName, symbol, isActive }) {
       </span>
       <button onClick={handleEditClick} >{btnCaption}</button>
     </li>
-  );
+  );  
 } 
